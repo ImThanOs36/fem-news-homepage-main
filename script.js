@@ -22,7 +22,6 @@ nav.addEventListener("click", function run() {
     
     
     nav.classList.remove("show_nav");
-    close.classList.toggle("hide-for-mob");
 
 
 
