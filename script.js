@@ -22,6 +22,7 @@ nav.addEventListener("click", function run() {
     
     
     nav.classList.remove("show_nav");
+    close.classList.remove("show-for-mob");
 
 
 
