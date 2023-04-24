@@ -11,17 +11,19 @@ toggle.addEventListener("click", function run() {
     show.classList.toggle("hide-for-mob");
     close.classList.toggle("show-for-mob");
     show.classList.toggle("show-for-mob");
-  
-
-
-
-
-
+    
+    
+    
+    
+    
+    
 })
 nav.addEventListener("click", function run() {
-
-
+    
+    
     nav.classList.remove("show_nav");
+    close.classList.toggle("hide-for-mob");
+
 
 
 })
