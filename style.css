@@ -70,7 +70,11 @@ li a {
 }
 
 .grid {
+<<<<<<< HEAD
     margin-top: 50px;
+=======
+    margin-top: 20px;
+>>>>>>> bd9a685ddd70fd032041039d76b247ac57efb585
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 2em;
