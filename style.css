@@ -32,8 +32,9 @@ html {
 
 .container {
     max-width: 1441px;
-    margin: auto;
-    padding: 50px 20px;
+    margin:auto;
+    padding: 150px 20px;
+    
 }
 
 body {
@@ -69,7 +70,7 @@ li a {
 }
 
 .grid {
-    margin-top: 100px;
+    margin-top: 50px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 2em;
